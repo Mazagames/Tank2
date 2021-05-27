@@ -1,0 +1,32 @@
+{
+	"name": "Tank them",
+	"version": "1.0.0.0",
+	"description": "Amazing game",
+	"id": "com.mycompany.myapp",
+	"unique-id": "2m2oqhlgof90t",
+	"viewport-width": 1920,
+	"viewport-height": 1080,
+	"author": "Flikes",
+	"email": "Flyer_c@mail.ru",
+	"website": "http://",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r241",
+	"ife": false,
+	"used-plugins": [
+		"Sprite",
+		"Mouse",
+		"Touch",
+		"Spritefont2",
+		"LocalStorage",
+		"Audio",
+		"ValerypopoffJSPlugin",
+		"Browser"
+	],
+	"used-behaviors": [
+		"jumpthru",
+		"Bullet",
+		"Platform",
+		"Sin"
+	]
+}
